@@ -82,7 +82,7 @@ DATABASES = {
         'NAME': 'db_blog',
         'USER':'rigoberto',
         'PASWORD':'sinergia_24',
-        'HOST':'10.111.24.84',
+        'HOST':'localhost',
         'PORT':'5432',
 
     }
